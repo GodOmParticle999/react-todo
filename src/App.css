@@ -117,6 +117,7 @@ button:hover{
 }
 .clearAll{
   border-radius: 5px;
+  margin-top: 15px;
   color: rgb(201, 58, 32);
   font-weight: 600;
   box-shadow: 2px 2px 5px rgba(256, 256, 256, 0.5);
