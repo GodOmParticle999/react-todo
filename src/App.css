@@ -115,6 +115,8 @@ button:hover{
   margin-bottom: 5px;
  
 }
+.todoListItem p{
+flex:1;}
 .clearAll{
   border-radius: 5px;
   margin-top: 15px;
